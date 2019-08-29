@@ -1,4 +1,5 @@
 *.swp
 *.pyc
 dump
+nick-facts.txt
 *.cfg
